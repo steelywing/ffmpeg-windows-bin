@@ -1,0 +1,6 @@
+ffmpeg.exe filter=lfs diff=lfs merge=lfs -text
+ffmpeg_g.exe filter=lfs diff=lfs merge=lfs -text
+ffplay.exe filter=lfs diff=lfs merge=lfs -text
+ffplay_g.exe filter=lfs diff=lfs merge=lfs -text
+ffprobe.exe filter=lfs diff=lfs merge=lfs -text
+ffprobe_g.exe filter=lfs diff=lfs merge=lfs -text
